@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Kine Master\\HealthyBodyFit Project UAS\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.2.17\\android\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Kine Master\\HealthyBodyFit Project UAS\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_back.png",
+        "source": "D:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.2.17\\android\\src\\main\\res\\mipmap-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\Kine Master\\HealthyBodyFit Project UAS\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_light.png",
+        "source": "D:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.2.17\\android\\src\\main\\res\\mipmap-xhdpi\\ic_light.png"
+    },
+    {
+        "merged": "D:\\Kine Master\\HealthyBodyFit Project UAS\\build\\qrscan\\intermediates\\res\\merged\\release\\mipmap-xhdpi-v4\\ic_photo.png",
+        "source": "D:\\dev\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\qrscan-0.2.17\\android\\src\\main\\res\\mipmap-xhdpi\\ic_photo.png"
+    }
+]
